@@ -1,4 +1,6 @@
-# Multiplex Word Embeddings for Selectional Preference Acquisition
+# **CLONE OF** [https://github.com/HKUST-KnowComp/MWE](https://github.com/HKUST-KnowComp/MWE)
+
+#  Multiplex Word Embeddings for Selectional Preference Acquisition
 
 
 This is the source code for EMNLP-IJCNLP 2019 paper "Multiplex Word Embeddings for Selectional Preference Acquisition".
